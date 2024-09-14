@@ -1,1 +1,3 @@
 Hello, from branch "branchC2".!
+Hello, from branch "branchC1"!
+Hello, from the both the branches - "branchC1" and "branchC2"!
